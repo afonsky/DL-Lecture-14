@@ -29,7 +29,7 @@ info: >
 css: unocss
 title: Deep Learning
 subtitle: Generative Modeling
-date: 10/05/2025
+date: 10/03/2025
 venue: HSE
 author: Alexey Boldyrev
 ---
