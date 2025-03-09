@@ -29,7 +29,7 @@ info: >
 css: unocss
 title: Deep Learning
 subtitle: Generative Modeling
-date: 22/04/2024
+date: 10/05/2025
 venue: HSE
 author: Alexey Boldyrev
 ---
@@ -54,10 +54,6 @@ author: Alexey Boldyrev
 <!--
 NB: This demo uses a custom syntax (using preparser extensions), with all the @@@@.
 -->
-
----
-src: ./slides/0_attendance.md
----
 
 ---
 src: ./slides/0_introduction.md
